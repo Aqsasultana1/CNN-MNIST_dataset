@@ -1,1 +1,1 @@
-# CNN-MNIST_dataset
+# DNN-MNIST_dataset
